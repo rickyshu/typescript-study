@@ -14,10 +14,8 @@
 | 김정환 |  [wjdghksdigh](https://github.com/wjdghksdigh)  | 3/3  |
 | 박설화 |      [iberis2](https://github.com/iberis2)      | 3/3  |
 | 염도경 | [yeomdogyeong](https://github.com/yeomdogyeong) | 3/3  |
-| 이혜나 | [hazellee0914](https://github.com/hazellee0914) | 3/3  |
 | 이호승 |      [leekoby](https://github.com/leekoby)      | 3/3  |
 | 이호인 |     [rickyshu](https://github.com/rickyshu)     | 3/3  |
-| 최기랑 |   [choigirang](https://github.com/choigirang)   | 3/3  |
 | 허상범 |  [sangbeomheo](https://github.com/sangbeomheo)  | 3/3  |
 | 홍혜란 |    [forhrever](https://github.com/forhrever)    | 3/3  |
 
