@@ -11,13 +11,13 @@
 
 |  이름  |                    깃허브 ID                    | 출석 |      비고      |
 | :----: | :---------------------------------------------: | :--: | :------------: |
-| 김정환 |  [wjdghksdigh](https://github.com/wjdghksdigh)  | 4/4  |                |
-| 박설화 |      [iberis2](https://github.com/iberis2)      | 4/4  |                |
-| 염도경 | [yeomdogyeong](https://github.com/yeomdogyeong) | 4/4  |                |
-| 이호승 |      [leekoby](https://github.com/leekoby)      | 4/4  |                |
-| 이호인 |     [rickyshu](https://github.com/rickyshu)     | 4/4  |                |
-| 허상범 |  [sangbeomheo](https://github.com/sangbeomheo)  | 4/4  |                |
-| 홍혜란 |    [forhrever](https://github.com/forhrever)    | 4/4  |                |
+| 김정환 |  [wjdghksdigh](https://github.com/wjdghksdigh)  | 4/5  |                |
+| 박설화 |      [iberis2](https://github.com/iberis2)      | 5/5  |                |
+| 염도경 | [yeomdogyeong](https://github.com/yeomdogyeong) | 5/5  |                |
+| 이호승 |      [leekoby](https://github.com/leekoby)      | 5/5  |                |
+| 이호인 |     [rickyshu](https://github.com/rickyshu)     | 5/5  |                |
+| 허상범 |  [sangbeomheo](https://github.com/sangbeomheo)  | 5/5  |                |
+| 홍혜란 |    [forhrever](https://github.com/forhrever)    | 4/5  |                |
 | 이혜나 |                                                 | 3/3  | 3회차까지 참여 |
 | 최기랑 |                                                 | 3/3  | 3회차까지 참여 |
 
