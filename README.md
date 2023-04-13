@@ -11,13 +11,13 @@
 
 |  이름  |                    깃허브 ID                    | 출석 |      비고      |
 | :----: | :---------------------------------------------: | :--: | :------------: |
-| 김정환 |  [wjdghksdigh](https://github.com/wjdghksdigh)  | 4/5  |                |
-| 박설화 |      [iberis2](https://github.com/iberis2)      | 5/5  |                |
-| 염도경 | [yeomdogyeong](https://github.com/yeomdogyeong) | 5/5  |                |
-| 이호승 |      [leekoby](https://github.com/leekoby)      | 5/5  |                |
-| 이호인 |     [rickyshu](https://github.com/rickyshu)     | 5/5  |                |
-| 허상범 |  [sangbeomheo](https://github.com/sangbeomheo)  | 5/5  |                |
-| 홍혜란 |    [forhrever](https://github.com/forhrever)    | 4/5  |                |
+| 김정환 |  [wjdghksdigh](https://github.com/wjdghksdigh)  | 5/6  |                |
+| 박설화 |      [iberis2](https://github.com/iberis2)      | 6/6  |                |
+| 염도경 | [yeomdogyeong](https://github.com/yeomdogyeong) | 6/6  |                |
+| 이호승 |      [leekoby](https://github.com/leekoby)      | 6/6  |                |
+| 이호인 |     [rickyshu](https://github.com/rickyshu)     | 6/6  |                |
+| 허상범 |  [sangbeomheo](https://github.com/sangbeomheo)  | 6/6  |                |
+| 홍혜란 |    [forhrever](https://github.com/forhrever)    | 5/6  |                |
 | 이혜나 |                                                 | 3/3  | 3회차까지 참여 |
 | 최기랑 |                                                 | 3/3  | 3회차까지 참여 |
 
@@ -33,10 +33,9 @@
 |  3   | 23-03-21 (화) 21:00 |                러닝타입스크립트 `Chapter 8, 9`                |     허상범, 최기랑     |
 |  4   | 23-03-28 (화) 21:00 |                 러닝타입스크립트 `Chapter 10`                 |         이호승         |
 |  5   | 23-04-04 (화) 21:00 |           러닝타입스크립트 문제풀이 `Chapter 9, 10`           |         허상범         |
-|  6   | 23-04-11 (화) 21:00 |                   TodoList CRUD 구현 By TS                    |                        |
-|  7   |                     |                                                               |                        |
-|  8   |                     |                                                               |                        |
-|  9   |                     |                                                               |                        |
+|  6   | 23-04-11 (화) 21:00 |              TodoList CRUD 구현 By T (자율참여)               |         허상범         |
+|  7   | 23-04-18 (화) 21:00 |              러닝타입스크립트 `Chapter 11 ~ 13`               |                        |
+|  8   | 23-04-25 (화) 21:00 |               러닝타입스크립트 `Chapter 14, 15`               |                        |
 
 <br>
 
